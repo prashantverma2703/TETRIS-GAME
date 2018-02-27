@@ -7,7 +7,7 @@ Step 1: use the html canvas
 //CONTEXT IS USED TO RETURN AN OBJECT WHICH GIVES ALL THE METHODS AND PROPERTIES TO DRAW LINES BOXED CIRCLES ETC IN CANVAS
 	context.scale(20,20); //SCALE UP THE CANVAS(ZOOM)
 
-Step 2: create array matrix with the shape of the tetris objects
+Step2: create array matrix with the shape of the tetris objects
 	const matrix = [
 	[0,0,0],
 	[0,1,0],
